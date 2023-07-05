@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CarKeeper/static/css/main.38e40864.css",
+    "main.js": "/CarKeeper/static/js/main.e0492d4d.js",
+    "index.html": "/CarKeeper/index.html",
+    "main.38e40864.css.map": "/CarKeeper/static/css/main.38e40864.css.map",
+    "main.e0492d4d.js.map": "/CarKeeper/static/js/main.e0492d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38e40864.css",
+    "static/js/main.e0492d4d.js"
+  ]
+}
